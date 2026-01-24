@@ -30,7 +30,7 @@ public class LoginPageTest {
 
 		Thread.sleep(3000);
 
-		lg.setUserName("Pratik");
+		lg.setUserName("Pratik ABCD");
 
 		Thread.sleep(3000);
 
