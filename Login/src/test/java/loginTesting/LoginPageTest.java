@@ -34,7 +34,7 @@ public class LoginPageTest {
 
 		Thread.sleep(3000);
 
-		lg.setPassword("Gade");
+		lg.setPassword("Gade Success");
 		Thread.sleep(3000);
 
 		lg.loginButton();
