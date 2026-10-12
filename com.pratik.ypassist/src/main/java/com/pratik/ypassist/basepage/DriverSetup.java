@@ -25,10 +25,10 @@ public class DriverSetup {
 		Properties prop = configReader.getProperties();
 		
 		prop.getProperty("browser");
-		if (browser == null || browser.isBlank()) {	
-		    throw new IllegalStateException(
-		            "Browser is missing in config.properties");
-		}
+		/*
+		 * if (browser == null || browser.isBlank()) { throw new IllegalStateException(
+		 * "Browser is missing in config.properties"); }
+		 */
 
 		if (prop.getProperty("browser").equalsIgnoreCase("chrome")) {
 			driver = new ChromeDriver();
