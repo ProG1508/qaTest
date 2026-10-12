@@ -1,0 +1,92 @@
+2026-10-11 00:24:16 [main] INFO  ListenersImplimentation - Test Started: TC_001_TextBox
+2026-10-11 00:24:16 [main] INFO  TestElementPage - Clicking the Text Box menu
+2026-10-11 00:24:17 [main] INFO  TestElementPage - Text Box menu clicked successfully
+2026-10-11 00:24:17 [main] INFO  ListenersImplimentation - Test Started: TC_002_EnterName
+2026-10-11 00:24:18 [main] INFO  ListenersImplimentation - Test Started: TC_003_EnterEmail
+2026-10-11 00:24:18 [main] INFO  ListenersImplimentation - Test Started: TC_004_EnterCurrentAddress
+2026-10-11 00:24:18 [main] INFO  ListenersImplimentation - Test Started: TC_005_EnterPermanentAddress
+2026-10-11 00:24:19 [main] INFO  ListenersImplimentation - Test Started: TC_006_ClickSubmitButton
+2026-10-11 00:27:29 [main] INFO  ListenersImplimentation - Test Started: TC_001_TextBox
+2026-10-11 00:27:29 [main] INFO  ListenersImplimentation - Test Started: TC_002_EnterName
+2026-10-11 00:27:30 [main] INFO  ListenersImplimentation - Test Started: TC_003_EnterEmail
+2026-10-11 00:27:30 [main] INFO  ListenersImplimentation - Test Started: TC_004_EnterCurrentAddress
+2026-10-11 00:27:30 [main] INFO  ListenersImplimentation - Test Started: TC_005_EnterPermanentAddress
+2026-10-11 00:27:30 [main] INFO  ListenersImplimentation - Test Started: TC_006_ClickSubmitButton
+2026-10-11 00:28:07 [main] INFO  ListenersImplimentation - Test Started: TC_001_TextBox
+2026-10-11 00:28:07 [main] INFO  ListenersImplimentation - Test Started: TC_002_EnterName
+2026-10-11 00:28:07 [main] INFO  ListenersImplimentation - Test Started: TC_003_EnterEmail
+2026-10-11 00:28:07 [main] INFO  ListenersImplimentation - Test Started: TC_004_EnterCurrentAddress
+2026-10-11 00:28:07 [main] INFO  ListenersImplimentation - Test Started: TC_005_EnterPermanentAddress
+2026-10-11 00:28:08 [main] INFO  ListenersImplimentation - Test Started: TC_006_ClickSubmitButton
+2026-10-11 00:28:42 [main] INFO  ListenersImplimentation - Test Started: TC_001_TextBox
+2026-10-11 00:28:42 [main] INFO  TestElementPage - Clicking the Text Box menu
+2026-10-11 00:28:42 [main] INFO  TestElementPage - Text Box menu clicked successfully
+2026-10-11 00:28:43 [main] INFO  ListenersImplimentation - Test Started: TC_002_EnterName
+2026-10-11 00:28:43 [main] INFO  ListenersImplimentation - Test Started: TC_003_EnterEmail
+2026-10-11 00:28:43 [main] INFO  ListenersImplimentation - Test Started: TC_004_EnterCurrentAddress
+2026-10-11 00:28:44 [main] INFO  ListenersImplimentation - Test Started: TC_005_EnterPermanentAddress
+2026-10-11 00:28:44 [main] INFO  ListenersImplimentation - Test Started: TC_006_ClickSubmitButton
+2026-10-12 22:43:01 [main] INFO  ListenersImplimentation - Test Started: TC_001_TextBox
+2026-10-12 22:43:01 [main] INFO  TestElementPage - Clicking the Text Box menu
+2026-10-12 22:43:01 [main] INFO  TestElementPage - Text Box menu clicked successfully
+2026-10-12 22:43:01 [main] INFO  ListenersImplimentation - Test Successful: TC_001_TextBox
+2026-10-12 22:43:02 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 22:43:02 [main] INFO  ListenersImplimentation - Test Started: TC_002_EnterName
+2026-10-12 22:43:02 [main] INFO  ListenersImplimentation - Test Successful: TC_002_EnterName
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - Test Started: TC_003_EnterEmail
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - Test Successful: TC_003_EnterEmail
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - Test Started: TC_004_EnterCurrentAddress
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - Test Successful: TC_004_EnterCurrentAddress
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - Test Started: TC_005_EnterPermanentAddress
+2026-10-12 22:43:03 [main] INFO  ListenersImplimentation - Test Successful: TC_005_EnterPermanentAddress
+2026-10-12 22:43:04 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 22:43:04 [main] INFO  ListenersImplimentation - Test Started: TC_006_ClickSubmitButton
+2026-10-12 22:43:05 [main] INFO  ListenersImplimentation - Test Failed: TC_006_ClickSubmitButton
+2026-10-12 22:43:05 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:06:15 [main] INFO  ListenersImplimentation - Test Suite Started: Test
+2026-10-12 23:06:23 [main] INFO  ListenersImplimentation - Test Started: TC_001_TextBox
+2026-10-12 23:06:23 [main] INFO  TestElementPage - Clicking the Text Box menu
+2026-10-12 23:06:23 [main] INFO  TestElementPage - Text Box menu clicked successfully
+2026-10-12 23:06:23 [main] INFO  ListenersImplimentation - Test Successful: TC_001_TextBox
+2026-10-12 23:06:23 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:06:23 [main] INFO  ListenersImplimentation - Test Started: TC_002_EnterName
+2026-10-12 23:06:24 [main] INFO  ListenersImplimentation - Test Successful: TC_002_EnterName
+2026-10-12 23:06:24 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:06:24 [main] INFO  ListenersImplimentation - Test Started: TC_003_EnterEmail
+2026-10-12 23:06:24 [main] INFO  ListenersImplimentation - Test Successful: TC_003_EnterEmail
+2026-10-12 23:06:24 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:06:24 [main] INFO  ListenersImplimentation - Test Started: TC_004_EnterCurrentAddress
+2026-10-12 23:06:24 [main] INFO  ListenersImplimentation - Test Successful: TC_004_EnterCurrentAddress
+2026-10-12 23:06:25 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:06:25 [main] INFO  ListenersImplimentation - Test Started: TC_005_EnterPermanentAddress
+2026-10-12 23:06:25 [main] INFO  ListenersImplimentation - Test Successful: TC_005_EnterPermanentAddress
+2026-10-12 23:06:25 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:06:25 [main] INFO  ListenersImplimentation - Test Started: TC_006_ClickSubmitButton
+2026-10-12 23:06:26 [main] ERROR ListenersImplimentation - Test Failed: TC_006_ClickSubmitButton
+2026-10-12 23:06:26 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:06:26 [main] INFO  ListenersImplimentation - Test Suite Finished: Test
+2026-10-12 23:10:51 [main] INFO  ListenersImplimentation - Test Suite Started: Test
+2026-10-12 23:10:56 [main] INFO  ListenersImplimentation - Test Started: TC_001_TextBox
+2026-10-12 23:10:56 [main] INFO  TestElementPage - Clicking the Text Box menu
+2026-10-12 23:10:56 [main] INFO  TestElementPage - Text Box menu clicked successfully
+2026-10-12 23:10:56 [main] INFO  ListenersImplimentation - Test Successful: TC_001_TextBox
+2026-10-12 23:10:57 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:10:57 [main] INFO  ListenersImplimentation - Test Started: TC_002_EnterName
+2026-10-12 23:10:57 [main] INFO  ListenersImplimentation - Test Successful: TC_002_EnterName
+2026-10-12 23:10:57 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:10:57 [main] INFO  ListenersImplimentation - Test Started: TC_003_EnterEmail
+2026-10-12 23:10:57 [main] INFO  ListenersImplimentation - Test Successful: TC_003_EnterEmail
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - Test Started: TC_004_EnterCurrentAddress
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - Test Successful: TC_004_EnterCurrentAddress
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - Test Started: TC_005_EnterPermanentAddress
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - Test Successful: TC_005_EnterPermanentAddress
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - Test Started: TC_006_ClickSubmitButton
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - Test Successful: TC_006_ClickSubmitButton
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - ============================================
+2026-10-12 23:10:58 [main] INFO  ListenersImplimentation - Test Suite Finished: Test

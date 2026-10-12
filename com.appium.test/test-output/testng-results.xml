@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-30T20:13:11 IST" name="Default suite" finished-at="2026-08-30T20:14:01 IST" duration-ms="49722">
+    <groups>
+    </groups>
+    <test started-at="2026-08-30T20:13:11 IST" name="Default test" finished-at="2026-08-30T20:14:01 IST" duration-ms="49722">
+      <class name="testRun.AppiumTestRun">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testRun.AppiumTestRun@175c2241]" started-at="2026-08-30T20:13:11 IST" name="setUp" finished-at="2026-08-30T20:13:22 IST" duration-ms="10960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="languageSelectionTest()[pri:0, instance:testRun.AppiumTestRun@175c2241]" started-at="2026-08-30T20:13:22 IST" name="languageSelectionTest" finished-at="2026-08-30T20:14:00 IST" duration-ms="37555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- languageSelectionTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testRun.AppiumTestRun@175c2241]" started-at="2026-08-30T20:14:00 IST" name="tearDown" finished-at="2026-08-30T20:14:01 IST" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testRun.AppiumTestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
